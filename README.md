@@ -46,19 +46,18 @@ In T flip flop, "T" defines the term "Toggle". In SR Flip Flop, we provide only 
 
 
 ## RTL Schematic:
-1.SR Flip Flop:
+##SR Flip Flop:
 ![image](https://github.com/kanishka2305/Flipflops/assets/113497357/d9f75b19-76d3-4d95-8a79-f9f28adf526f)
 
-
-2.D Flip Flop:
+##.D Flip Flop:
 ![image](https://github.com/kanishka2305/Flipflops/assets/113497357/793bcdb0-11a4-4403-80cc-b80787e01383)
 
  
-3.JK Flip Flop:
+##JK Flip Flop:
 ![image](https://github.com/kanishka2305/Flipflops/assets/113497357/97f48578-56c9-46ea-ac46-9e5d8b8c7bd3)
 
 
-4.T Flip Flop:
+##T Flip Flop:
 ![image](https://github.com/kanishka2305/Flipflops/assets/113497357/c6d1fa8a-db90-47b2-a1af-654d042e481e)
 
 
@@ -67,6 +66,18 @@ In T flip flop, "T" defines the term "Toggle". In SR Flip Flop, we provide only 
 
 
 ## Timing Diagram:
+##SR Flip FLop:
+![image](https://github.com/kanishka2305/Flipflops/assets/113497357/50c0ab8f-b5c8-4ccf-81ca-03f85053cd40)
+
+## D Flip Flop:
+![image](https://github.com/kanishka2305/Flipflops/assets/113497357/9785616c-d66e-46b1-a627-be581dd0e0bd)
+
+##JK Flip Flop:
+![image](https://github.com/kanishka2305/Flipflops/assets/113497357/2624342f-ce66-4a7e-bd32-eb49876b9a54)
+
+##T Flip Flop:
+![image](https://github.com/kanishka2305/Flipflops/assets/113497357/efad4065-cad0-4a6e-92bf-9d3c8b41a15b)
+
 
 
 
