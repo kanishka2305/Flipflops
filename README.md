@@ -49,12 +49,14 @@ In T flip flop, "T" defines the term "Toggle". In SR Flip Flop, we provide only 
 1.SR Flip Flop:
 ![image](https://github.com/kanishka2305/Flipflops/assets/113497357/d9f75b19-76d3-4d95-8a79-f9f28adf526f)
 
+
 2.D Flip Flop:
 ![image](https://github.com/kanishka2305/Flipflops/assets/113497357/793bcdb0-11a4-4403-80cc-b80787e01383)
 
  
 3.JK Flip Flop:
 ![image](https://github.com/kanishka2305/Flipflops/assets/113497357/97f48578-56c9-46ea-ac46-9e5d8b8c7bd3)
+
 
 4.T Flip Flop:
 ![image](https://github.com/kanishka2305/Flipflops/assets/113497357/c6d1fa8a-db90-47b2-a1af-654d042e481e)
